@@ -1,0 +1,1 @@
+This is Muskie's first git project
